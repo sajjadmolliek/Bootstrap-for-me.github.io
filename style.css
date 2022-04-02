@@ -1,0 +1,55 @@
+.bg_img{
+    background-image: url(image/bg_img1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+    filter: blur(5px);
+   
+}
+
+/* .hover_style{
+    background-color: rgb(78, 76, 76);
+    border: 1px solid white;
+    border-radius: 10px;
+    } */
+
+
+    .hover_style{
+        border: 1px solid white;
+        border-radius: 10px;
+        }
+.hover_style:hover{
+background-color: rgb(78, 76, 76);
+border: 1px solid white;
+border-radius: 10px;
+}
+
+
+
+.carousel-indicators{
+bottom: -50px;
+}
+
+
+
+.color1{
+    box-shadow: 2px 2px 2px 2px;
+}
+.color2{
+    box-shadow: 2px 2px 2px 2px;
+} 
+.color3{
+    box-shadow: 2px 2px 2px 2px;
+} 
+
+
+.color1:hover{
+    box-shadow: 5px 5px 5px 5px;
+}
+.color2:hover{
+    box-shadow: 5px 5px 5px 5px;
+}
+.color3:hover{
+    box-shadow: 5px 5px 5px 5px;
+}
